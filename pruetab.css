@@ -1,0 +1,40 @@
+.cjtext-1 {
+  background: #131313;
+  font-family: arimo;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 13px;
+  padding: 20px;
+  margin-right: 10px;
+  margin-top: -12px;
+}
+.p-text {
+  width: 370px;
+  font-size: 12px;
+  text-align: justify;
+  margin-top: 25px;
+  padding: 12px;
+}
+.p-text strong {
+  color: #434559 !important;
+}
+.p-title {
+  font-family: "Yellove DEMO";
+  font-size: 38.5px;
+  text-align: left;
+  text-transform: lowercase;
+  padding-top: 20px;
+  color: #434559;
+  letter-spacing: -3px;
+  line-height: 50px;
+  margin-left: 54px;
+}
+.p-subtitle {
+  font-family: "Girassol 27px", serif;
+  font-size: 9px;
+  height: auto;
+  letter-spacing: 1px;
+  text-align: justify;
+  margin-left: 250px;
+}
