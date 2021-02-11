@@ -1,0 +1,31 @@
+#fangs {
+  color: #271d54;
+  font-size: 45px;
+  width: 30px;
+  display: block;
+  margin-top: 80px;
+  margin-left: 33px;
+  text-shadow: 1px 0px 2px #1a1a1a;
+}
+.hunter {
+  width:300px;
+  height:200px;
+  border:15px solid #111111;
+  outline: 1px solid #271d54;
+  outline-offset: -7px;
+  margin:auto;
+}
+.hunt1 {
+  font-size: 6px;
+  color: #0b0b0b;
+  font-family: calibri;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  height: 178px;
+  width: 84px;
+  margin-left: 5px;
+  text-align: justify;
+  padding: 10px;
+  line-height: 7px!important;
+  margin-top: -15px;
+}
