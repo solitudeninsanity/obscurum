@@ -21,13 +21,12 @@
 }
 .p-title {
   font-family: "Hollanda";
-  font-size: 38.5px;
+  font-size: 30px;
   text-align: left;
   text-transform: lowercase;
   padding-top: 20px;
   color: #434559;
-  letter-spacing: -3px;
-  line-height: 50px;
+  line-height: 35px;
   margin-left: 54px;
 }
 .p-subtitle {
