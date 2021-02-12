@@ -33,6 +33,7 @@
   font-family: "Girassol 27px", serif;
   font-size: 8.5px;
   height: auto;
+  text-transform: lowercase;
   letter-spacing: 1px;
   text-align: justify;
   margin-left: 162px;
