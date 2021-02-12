@@ -13,7 +13,7 @@
   width: 370px;
   font-size: 12px;
   text-align: justify;
-  margin-top: 25px;
+  margin-top: 21px;
   padding: 12px;
 }
 .p-text strong {
@@ -21,12 +21,12 @@
 }
 .p-title {
   font-family: "Hollanda";
-  font-size: 30px;
+  font-size: 26.5px;
   text-align: left;
   text-transform: lowercase;
   padding-top: 22px;
   color: #434559;
-  line-height: 35px;
+  line-height: 45px;
   margin-left: 54px;
 }
 .p-subtitle {
@@ -36,4 +36,5 @@
   letter-spacing: 1px;
   text-align: justify;
   margin-left: 162px;
+  line-height: 20px;
 }
