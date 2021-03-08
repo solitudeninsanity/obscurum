@@ -9,23 +9,24 @@
 }
 .cora {
   width:300px;
-  height:200px;
+  height:220px;
   border:15px solid #111111;
-  outline: 1px solid #400e0a;
+  outline: 1px solid #434559;
   outline-offset: -7px;
   margin:auto;
 }
 .cr1 {
-  font-size: 6px;
+  font-size: 7px;
   color: #dedede;
   font-family: calibri;
   text-transform: uppercase;
   letter-spacing: 1px;
-  height: 178px;
-  width: 84px;
-  margin-left: 214px;
-  text-align: justify;
-  padding: 10px;
-  line-height: 7px!important;
-  margin-top: -10px;
+  width: 50px;
+  position: relative;
+  top: 80px;
+  padding: 2px;
+  height: 30px;
+  text-align: center;
+  line-height: 8px;
+  margin-left: 230px;
 }
