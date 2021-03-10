@@ -11,11 +11,11 @@
   width:300px;
   height:220px;
   border:15px solid #111111;
-  outline: 1px solid #6b3232;
+  outline: 1px solid #6b3232c4;
   outline-offset: -7px;
   margin:auto;
 }
-.cr-1 {
+.cr1 {
   font-size: 7px;
   color: #dedede;
   font-family: calibri;
