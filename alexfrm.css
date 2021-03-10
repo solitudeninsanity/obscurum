@@ -1,0 +1,32 @@
+#maximus {
+  color: #271d54;
+  font-size: 45px;
+  width: 30px;
+  display: block;
+  margin-top: 80px;
+  margin-left: 33px;
+  text-shadow: 1px 0px 2px #1a1a1a;
+}
+.m-alex {
+  width: 300px;
+  height: 220px;
+  border: 15px solid #111111;
+  outline: 1px solid #2f3d33;
+  outline-offset: -7px;
+  margin: auto;
+}
+.mlx1 {
+  font-size: 7px;
+  color: #dedede;
+  font-family: calibri;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  width: 50px;
+  position: relative;
+  top: 65px;
+  padding: 10px;
+  height: 30px;
+  text-align: center;
+  line-height: 8px;
+  margin-left: 25px;
+}
