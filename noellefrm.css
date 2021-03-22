@@ -1,0 +1,38 @@
+.noelle {
+  background: linear-gradient(45deg, #675a75, #523c4f, #675a75, #523c4f); 
+  width: 320px; 
+  height: 240px; 
+  margin: 0 auto; 
+  display: flex; 
+  align-content: center; 
+  align-items: center; 
+  justify-content: center; 
+  border: 1px solid #4d4357; 
+  overflow: hidden;  
+  transition: ease 0.5s;  
+  transition-delay: 0.5s;
+}
+.nll {
+  width: 300px; 
+  height: 220px; 
+  margin: 10px; 
+  outline: 1px dotted #918899; 
+  outline-offset: -5px;
+}
+#nllh {
+  display: block; 
+  padding-left: 30px!important; 
+  font-size: 28px; 
+  color: #b3b3b3; 
+  text-shadow: 1px 1px 2px #918899; 
+  margin-top: 128px; 
+  opacity: 0;  
+  transition: ease-in 0.8s; 
+  transition: 0.8s ease-in;
+}
+.noelle .nll:hover #nllh { 
+  opacity: 1; 
+  transition: ease-out 0.8s; 
+  transition: 0.8s ease-out;
+}
+ 
