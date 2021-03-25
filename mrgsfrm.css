@@ -1,0 +1,21 @@
+.mrgs {
+  width: 300px;
+  height: 220px;
+  border: 15px solid #111111;
+  outline: 1px dotted #dedede;
+  outline-offset: -19px;
+  margin: auto;
+}
+.mrgs1 {
+  float: right;
+  text-align: justify;
+  padding-right: 10px!important;
+  padding: 172px;
+  font-size: 43px;
+  color: #f0f0f0;
+  text-shadow: 1px 1px #304733;
+  letter-spacing: -2px;
+  text-transform: uppercase;
+  font-family: times new roman;
+  font-weight: 900;
+}
