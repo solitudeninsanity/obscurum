@@ -1,0 +1,48 @@
+.maximus {
+  width: 300px; 
+  height: 220px; 
+  border: 15px solid #111111; 
+  outline: 1px solid #1e2921; 
+  outline-offset: -7px; 
+  margin: auto; 
+  transition: ease .8s;  
+  transition-delay: .8s;
+}
+.maximus .alexf {
+  width: 300px; 
+  height: 220px; 
+  overflow: hidden; 
+  transition: ease .3s; 
+  transition-delay: .3s;
+}
+.alex-1 {
+  font-size: 7.5px; 
+  color: #dedede; 
+  font-family: calibri; 
+  text-transform: uppercase; 
+  letter-spacing: 1px; 
+  width: 52px; 
+  position: relative; 
+  margin-top: 95px; 
+  padding: 2px; 
+  height: 30px; 
+  text-align: justify; 
+  line-height: 8px; 
+  margin-left: 34px; 
+  opacity: 0;  
+  trransition: ease-in .5s; 
+  -webkit-transition: .5s ease-in; 
+  -o-transition: .5s ease-in;
+}
+.maximus:hover .alexf {
+  filter: grayscale(75%); 
+  transition: ease .8s;
+}
+.maximus .alexf:hover .alex-1 {
+  opacity: 1; transition: ease-out .5s; 
+  -webkit-transition: .5s ease-out; 
+  -o-transition: .5s ease-out;
+}
+.alex-1 i {
+  color: #138030!important;
+}
