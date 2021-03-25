@@ -5,15 +5,15 @@
   outline: 1px solid #8f24248f; 
   outline-offset: -7px; 
   margin: auto; 
-  transition: ease .5s;  
-  transition-delay: .5s;
+  transition: ease .8s;  
+  transition-delay: .8s;
 }
 .crh1 .corah { 
   width: 300px; 
   height: 220px; 
   overflow: hidden; 
-  transition: ease .1s; 
-  transition-delay: .1s;
+  transition: ease .3s; 
+  transition-delay: .3s;
 }
 .ch-1 {
   font-size: 7.5px; 
@@ -36,7 +36,7 @@
 }
 .crh1:hover .corah {
   filter: grayscale(70%); 
-  transition: ease .5s;
+  transition: ease .8s;
 }
 .crh1 .corah:hover .ch-1 {
   opacity: 1;  
